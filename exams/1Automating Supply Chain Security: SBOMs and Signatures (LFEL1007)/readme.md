@@ -3,6 +3,25 @@
 
 ### Automating Supply Chain Security: SBOMs and Signatures (LFEL1007)
 
+## 01. Course Introduction
+### Course Information
+- Overview of course objectives
+- Key benefits of learning software supply chain security
+
+---
+
+## 02. Introduction to Software Provenance
+### Introduction
+- Definition of software provenance
+- Importance in the software supply chain
+
+### Getting Started with Software Provenance
+- Key components of software provenance:
+  - Origin
+  - Development history
+  - Ownership
+  - Changes and associated data
+
 #### **Question 2.1**  
 What is software provenance?  
 ✅ d. The history of a software product, including its origin, development, ownership, changes, and associated data  
@@ -26,6 +45,19 @@ Who benefits from the proper implementation of software provenance?
 
 ---
 
+## 03. The Role of Source Control
+### Introduction
+- Explanation of source control’s role in software provenance
+- Benefits of integrating source control
+
+### Source Control as an Attestation
+- Using commit signing to authenticate changes
+
+### Enable Repository Security in GitHub
+- Enforcing branch protection rules
+- Automating approval workflows
+- Commit signing for authenticity
+
 #### **Question 3.1**  
 What role does commit signing play in source control for software provenance?  
 ✅ c. It verifies the authenticity of commits, increasing trust and security  
@@ -46,6 +78,16 @@ True or False? Repository security settings can help transform source control hi
 ❌ b. False  
 
 ---
+
+## 04. The Role of Dependency Tracking
+### Introduction
+- Importance of tracking dependencies in software projects
+
+### Dependency Tracking as Provenance
+- Differentiating direct and transitive dependencies
+
+### Getting Started with SBOMs
+- Overview of Software Bill of Materials (SBOMs)
 
 #### **Question 4.1**  
 What is the primary purpose of tracking direct and transitive dependencies in software development?  
@@ -71,6 +113,17 @@ What is the fundamental difference between direct and transitive dependencies in
 
 ---
 
+## 05. The Role of Tags and Signatures
+### Introduction
+- Role of tags and signatures in release management
+
+### Release Tagging
+- Best practices for Git tags
+- Associating tags with release versions
+
+### Break Out the SLSA
+- Introduction to Supply Chain Levels for Software Artifacts (SLSA)
+
 #### **Question 5.1**  
 What is the primary purpose of Git tags in software release management?  
 ✅ b. To identify and associate artifacts with specific release versions  
@@ -91,6 +144,23 @@ What is the role of release signatures in the software supply chain?
 ❌ d. They simplify dependency tracking  
 
 ---
+
+## 06. Automate Your Project’s Provenance
+### Introduction
+- Importance of automation in supply chain security
+
+### Automatically Generate Your SBOM on Release
+- Tools and best practices
+
+### Automatically Sign Your Artifacts with Cosign
+- Overview of Cosign functionality
+- Compatibility with multiple platforms
+
+### Automatically Generate Attestations with SLSA
+- Automating artifact verification
+
+### Provide Verification Guidance
+- Steps to guide users in artifact verification
 
 #### **Question 6.1**  
 True or False? Cosign is a GitHub Actions tool, and can’t be used on other platforms.  
