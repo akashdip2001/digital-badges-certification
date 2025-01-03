@@ -1,7 +1,7 @@
 [<img align="right" alt="automating-supply-chain-security-sboms-and" width="300" src="https://github.com/user-attachments/assets/370245dc-cd36-41e9-a0fc-3bc2f194fee8">](https://www.credly.com/badges/e0536338-418a-44c7-bae8-e4d47398f1e5/public_url) 
 
 
-### Automating Supply Chain Security: SBOMs and Signatures (LFEL1007)
+### Automating Supply Chain Security: SBOMs and Signatures (LFEL1007) [my Profile](https://openprofile.dev/profile/akashdip2001)
 
 ## 01. Course Introduction
 ### Course Information
