@@ -179,4 +179,4 @@ True or False? You should be ready for a high amount of maintenance once you get
 
 --- 
 
-[![akashdip-mahapatra-1bf1e6a7-b321-478d-9b0d-27178b48247d-certificate_page-0001](https://github.com/user-attachments/assets/248b3b32-b260-4af0-8038-166ecfa0cd3f)](https://www.credly.com/badges/e0536338-418a-44c7-bae8-e4d47398f1e5/public_url)
+[![akashdip-mahapatra-1bf1e6a7-b321-478d-9b0d-27178b48247d-certificate_page-0001](https://github.com/user-attachments/assets/248b3b32-b260-4af0-8038-166ecfa0cd3f)](https://www.linkedin.com/posts/akashdip2001_security-devops-sboms-activity-7280932530726359040-KKBs)
