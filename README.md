@@ -133,5 +133,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-| [IBM](https://bundles.yourlearning.ibm.com/skills/learn/#page/MKPYMVQVMPDW53J8) | [GitHub](https://resources.github.com/learn/certifications/) | [AWS](https://www.credly.com/organizations/amazon-web-services/badges) |
+| [IBM](https://bundles.yourlearning.ibm.com/skills/learn/#page/MKPYMVQVMPDW53J8) | [GitHub](https://resources.github.com/learn/certifications/) | [AWS](https://www.awseducate.com/student/s/content) |
 | --- | --- | --- |
