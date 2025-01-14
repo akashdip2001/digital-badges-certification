@@ -145,3 +145,6 @@ Though you can take any of the courses at any time, it is suggested that you tak
 5. Getting Started with Cloud Operations
 6. Getting Started with Security
 7. Getting Started with Serverless
+
+![WhatsApp Image 2025-01-14 at 19 40 02_be985e89](https://github.com/user-attachments/assets/bc7af5be-cbd8-45dd-bb7d-7c19d76878be)
+
