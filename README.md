@@ -135,3 +135,13 @@
 
 | [IBM](https://bundles.yourlearning.ibm.com/skills/learn/#page/MKPYMVQVMPDW53J8) | [GitHub](https://resources.github.com/learn/certifications/) | [AWS](https://www.awseducate.com/student/s/content) |
 | --- | --- | --- |
+
+Though you can take any of the courses at any time, it is suggested that you take the courses in the following order:
+
+Getting Started with Storage
+Getting Started with Compute
+Getting Started with Networking
+Getting Started with Databases
+Getting Started with Cloud Operations
+Getting Started with Security
+Getting Started with Serverless
