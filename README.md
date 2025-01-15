@@ -134,8 +134,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-| [IBM](https://bundles.yourlearning.ibm.com/skills/learn/#page/MKPYMVQVMPDW53J8) | [GitHub](https://resources.github.com/learn/certifications/) | [AWS](https://www.awseducate.com/student/s/content) |
-| --- | --- | --- |
+| [IBM](https://bundles.yourlearning.ibm.com/skills/learn/#page/MKPYMVQVMPDW53J8) | [GitHub](https://resources.github.com/learn/certifications/) | [AWS](https://www.awseducate.com/student/s/content) | [Linux fundamentals](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) |
+| --- | --- | --- | --- |
 
 Though you can take any of the courses at any time, it is suggested that you take the courses in the following order:
 
