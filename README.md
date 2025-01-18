@@ -139,6 +139,16 @@
 - **LFS179: Introduction to Nephio**
 - **LFEL1006: Securing Projects with OpenSSF Scorecard**
 
+<details>
+  
+SCOFFER15 - $1,270.75
+SCRIPT20 - $1,196.00
+SCRIPT30 - $1,046.50
+DCUBE30
+TECK30
+30COMTECHIES
+</details> 
+
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
