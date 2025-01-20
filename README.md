@@ -3,6 +3,7 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://www.credly.com/badges/aaf069f2-c02e-4313-8408-94a80aa5a818/public_url"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/lfs101-introduction-to-linux.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/go/6C69ZOKh"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/github-foundations.png" width="110px" height="110px" /></a>
+<a href="https://www.linkedin.com/posts/akashdip2001_macbook-desktop-github-activity-7286721666125119488-G-B4"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/github-actions.png" width="150px" height="150px"/></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_nasa-openscience-research-activity-7243236939678564352-q_rV"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/nasa%20open%20science%20Badge.png" width="100px" height="100px" /></a>
 <a href="https://badgr.com/public/assertions/S9quac7wTv6gBHZcz5lHzg?identity__email=akashdip.mahapatra.21@aot.edu.in"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/Postman%20White%20badge.png" width="100px" height="100px" /></a>
 <a href="https://www.credly.com/badges/998c7f5e-7081-4cd7-b8ee-153ece4d89f0/public_url"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/aws-educate-introduction-to-cloud-101.png" width="100px" height="100px" /></a>
@@ -17,6 +18,7 @@
 <a href="http://verify.skilljar.com/c/ftvm76ers6tu"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/Introduction%20to%20FinOps.png" width="100px" height="100px" /></a>
 <a href="http://verify.skilljar.com/c/zbwf7vxha9yj"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/Introduction%20to%20FOCUS.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/finops-certified-engineer.png" width="100px" height="100px" /></a>
+<a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/SF-Certified_AI-Associate_High-Res.png" width="110px" height="110px"/></a>
 </div>
 
 </br>
