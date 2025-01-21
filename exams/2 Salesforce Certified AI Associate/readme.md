@@ -1,5 +1,7 @@
 [<img align="right" alt="GitHub Foundations exam logo" width="300" src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/SF-Certified_AI-Associate_High-Res.png">](https://www.salesforce.com/trailblazer/akashdipmahapatra) 
 
+The Salesforce Certified AI Associate should be able to provide informed strategies and guide stakeholder decisions based on Salesforce's Trusted AI Principles. Candidates should be familiar with data management, security considerations, common business and productivity tools, and Salesforce Customer 360. `As part of the AI for All initiative, a candidate's first attempt of the Salesforce AI Associate credential is free through the end of 2025.`
+
 ### Salesforce Certified AI Associate
 
 </br>
