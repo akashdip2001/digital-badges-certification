@@ -4,6 +4,9 @@
 
 The Salesforce Certified AI Associate should be able to provide informed strategies and guide stakeholder decisions based on Salesforce's Trusted AI Principles. Candidates should be familiar with data management, security considerations, common business and productivity tools, and Salesforce Customer 360. `As part of the AI for All initiative, a candidate's first attempt of the Salesforce AI Associate credential is free through the end of 2025.`
 
+| [website](https://trailhead.salesforce.com/en/credentials/aiassociate) |
+| --- |
+
 </br>
 </br>
 </br>
