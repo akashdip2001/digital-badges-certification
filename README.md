@@ -171,5 +171,13 @@ Though you can take any of the courses at any time, it is suggested that you tak
 6. Getting Started with Security
 7. Getting Started with Serverless
 
+</br>
+</br>
+  
+ [![GOOGLE badge](https://github.com/user-attachments/assets/4582ce5a-7fad-4aef-bf41-5b2df8f44c6a)](https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c)
+</br>
+</br>
+</br>
+
 ![WhatsApp Image 2025-01-14 at 19 40 02_be985e89](https://github.com/user-attachments/assets/bc7af5be-cbd8-45dd-bb7d-7c19d76878be)
 
