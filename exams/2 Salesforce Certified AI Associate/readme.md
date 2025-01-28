@@ -13,6 +13,24 @@ The Salesforce Certified AI Associate should be able to provide informed strateg
 
 # ✅ Other User Questions & also collected from Google and modify for preparation using AI
 
+![Screenshot_2025-01-29-02-04-06-73_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/23d66c73-df92-4f48-a2d0-1e08ed30da5a)
+![Screenshot_2025-01-29-02-06-00-02_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/9a45cfdf-4bc5-47e0-8937-1e67229a2349)
+<details>
+  
+![Screenshot_2025-01-29-02-07-03-49_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/005b3ffa-ae63-4a46-8664-4348cd8e56d0)
+![Screenshot_2025-01-29-02-07-06-93_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/d38ac9b3-34a3-46f0-b03f-c21ed9a8207f)
+![Screenshot_2025-01-29-02-08-13-85_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/a0f32716-0088-427b-b145-ca18c53bf300)
+![Screenshot_2025-01-29-02-08-29-74_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/b4706238-2ccb-49d0-a2ae-cfb1b7bc7e82)
+![Screenshot_2025-01-29-02-08-40-65_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/10323e9d-7a16-45de-9c7c-010eca3a8fae)
+![Screenshot_2025-01-29-02-08-53-52_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/6f69a9c4-4c3d-4002-856d-6ebf93c8274f)
+![Screenshot_2025-01-29-02-08-57-95_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/02a75bdf-86e1-4b6b-a4a0-d9f6a6cbce21)
+![Screenshot_2025-01-29-02-09-01-73_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/0f5d0f1e-b435-4a22-b7d6-01d45652ba87)
+![Screenshot_2025-01-29-02-10-22-24_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/d4ba2482-ad34-4a67-8f60-744db3f017bf)
+![Screenshot_2025-01-29-02-10-25-71_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/eeaf17b9-7944-4ed9-9474-60420f86f895)
+![Screenshot_2025-01-29-02-10-30-98_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/f27cc367-4a6a-4c6c-a1c0-66a6760cf6c1)
+</details>
+
+
 **1. A consultant conducts a series of Consequence Scanning Workshops to support testing diverse datasets. Which Salesforce Trusted AI Principle is being practiced?**
 
 * A. Accountability
