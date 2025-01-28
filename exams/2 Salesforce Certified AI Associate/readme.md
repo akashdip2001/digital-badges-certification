@@ -1,4 +1,4 @@
-[<img align="right" alt="GitHub Foundations exam logo" width="450" src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/SF-Certified_AI-Associate_High-Res.png">](https://www.salesforce.com/trailblazer/akashdipmahapatra) 
+[<img align="right" alt="GitHub Foundations exam logo" width="380" src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/SF-Certified_AI-Associate_High-Res.png">](https://www.salesforce.com/trailblazer/akashdipmahapatra) 
 
 ### Salesforce Certified AI Associate
 
