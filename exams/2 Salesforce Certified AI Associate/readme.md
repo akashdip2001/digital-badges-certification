@@ -13,7 +13,7 @@ The Salesforce Certified AI Associate should be able to provide informed strateg
 
 # ✅ Other User Questions & also collected from Google and modify for preparation using AI
 
-![Screenshot_2025-01-29-02-04-06-73_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/23d66c73-df92-4f48-a2d0-1e08ed30da5a)
+[![Screenshot_2025-01-29-02-04-06-73_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/23d66c73-df92-4f48-a2d0-1e08ed30da5a)](https://youtu.be/bzFOLG0GzMA)
 ![Screenshot_2025-01-29-02-06-00-02_d11ae654701a5fadb313ea6fa9a6836f](https://github.com/user-attachments/assets/9a45cfdf-4bc5-47e0-8937-1e67229a2349)
 <details>
   
