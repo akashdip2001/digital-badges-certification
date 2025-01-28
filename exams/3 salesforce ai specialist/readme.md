@@ -1,5 +1,7 @@
 ## Ai specialist
 
+### May some answers are wrong - Recheck the answers `& give a pull Request`
+
 ---
 
 **1.** An AI Specialist wants to use the related lists from an account in a custom prompt template.
