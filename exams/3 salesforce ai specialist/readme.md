@@ -3,7 +3,7 @@
 | [Lab: Salesforce AI Specialist Certification Prep](https://trailhead.salesforce.com/content/learn/modules/cert-prep-ai-specialist) |
 | --- |
 
-### May some answers are wrong - Recheck the answers
+#### May some answers are wrong - Recheck the answers - `correct answers link at the Bottom`
 
 ---
 
