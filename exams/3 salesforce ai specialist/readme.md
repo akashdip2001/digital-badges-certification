@@ -1,6 +1,6 @@
 ## Ai specialist
 
-### May some answers are wrong - Recheck the answers `& give a pull Request`
+### May some answers are wrong - Recheck the answers
 
 ---
 
@@ -588,3 +588,13 @@ How should the AI Specialist gather the necessary data for the prompt template?
 - A. ✅ The Activities related list on the Account object is not supported because it is a polymorphic field.
 - B. Prompt generation will yield no response when there is no related list associated with an Account in runtime.
 - C. If person accounts have been enabled, merge fields will not be available for the Account object. 
+
+</br>
+</br>
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+  
+| [Correct Answers](https://github.com/shayani2003/salesforce-ai-specialist) |
+| --- |
+
+</div>
