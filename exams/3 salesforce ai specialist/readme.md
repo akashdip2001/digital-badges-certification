@@ -1,7 +1,7 @@
 ## Ai specialist
 
-| [Lab: Salesforce AI Specialist Certification Prep](https://trailhead.salesforce.com/content/learn/modules/cert-prep-ai-specialist) |
-| --- |
+| [Lab: Salesforce AI Specialist Certification Prep](https://trailhead.salesforce.com/content/learn/modules/cert-prep-ai-specialist) | [video Guide](https://youtube.com/playlist?list=PLdYQMTciVWO_1BCZTHxEGTvKdGti-L2fE) |
+| --- | --- |
 
 #### May some answers are wrong - Recheck the answers - `correct answers link at the Bottom`
 
