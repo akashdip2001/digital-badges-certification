@@ -598,3 +598,9 @@ How should the AI Specialist gather the necessary data for the prompt template?
 | --- |
 
 </div>
+
+![Screenshot_29-1-2025_205749_www examtopics com](https://github.com/user-attachments/assets/7cc062a9-ace1-4a11-94d3-6723b52e1137)
+![Screenshot_29-1-2025_205839_www examtopics com](https://github.com/user-attachments/assets/320ecafe-3943-408a-bae1-8e61fb193802)
+![Screenshot_29-1-2025_205930_www examtopics com](https://github.com/user-attachments/assets/19048c47-fcd7-4e43-a2e2-4cd4b3351bc2)
+![Screenshot_29-1-2025_2129_www examtopics com](https://github.com/user-attachments/assets/36ae2566-df61-400e-968a-b35a912ffaca)
+![Screenshot_29-1-2025_21259_www examtopics com](https://github.com/user-attachments/assets/2966a4af-20b4-4bf3-9bcd-4da87b2c5e43)
