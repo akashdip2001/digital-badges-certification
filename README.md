@@ -160,6 +160,7 @@ TECK30
 
 | [IBM](https://bundles.yourlearning.ibm.com/skills/learn/#page/MKPYMVQVMPDW53J8) | [GitHub](https://resources.github.com/learn/certifications/) | [AWS](https://www.awseducate.com/student/s/content) | [Linux fundamentals](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | [Cisco-Cybersecurity](https://github.com/akashdip2001/cyber-security/blob/main/README.md) | [Salesforce Certified AI Associate & Sp.. ](https://github.com/akashdip2001/digital-badges-certification/tree/main/exams/2%20Salesforce%20Certified%20AI%20Associate) |
 | --- | --- | --- | --- | --- | --- |
+| [mongoDb](https://www.mongodb.com/students) | [Microsoft](https://techcommunity.microsoft.com/blog/educatordeveloperblog/free-microsoft-fundamentals-certifications-for-worldwide-students/3734654) |
 
 Though you can take any of the courses at any time, it is suggested that you take the courses in the following order:
 
