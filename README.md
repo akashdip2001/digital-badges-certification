@@ -178,8 +178,8 @@ Though you can take any of the courses at any time, it is suggested that you tak
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   
 ![Screenshot (107)](https://github.com/user-attachments/assets/c9abf13f-3ea0-4c34-b508-6e5d2ad1226b)
-| [Docker](https://learn.kodekloud.com/user/learning-paths/docker) | [Kubestronaut](https://learn.kodekloud.com/user/learning-paths/kubestronaut) | [CKA](https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator) | [DevOps](https://learn.kodekloud.com/user/learning-paths/devops-engineer) |
-| --- | --- | --- | --- |
+| [Linux Basics](https://learn.kodekloud.com/user/courses/learning-linux-basics-course-labs) | [Docker](https://learn.kodekloud.com/user/learning-paths/docker) | [JSON Path](https://learn.kodekloud.com/user/courses/json-path-test-free-course) | [Kubestronaut](https://learn.kodekloud.com/user/learning-paths/kubestronaut) | [CKA](https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator) | [DevOps](https://learn.kodekloud.com/user/learning-paths/devops-engineer) |
+| --- | --- | --- | --- | --- | --- |
 </div>
 
 </br>
