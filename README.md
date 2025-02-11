@@ -190,5 +190,7 @@ Though you can take any of the courses at any time, it is suggested that you tak
 </br>
 </br>
 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  
 ![WhatsApp Image 2025-01-14 at 19 40 02_be985e89](https://github.com/user-attachments/assets/bc7af5be-cbd8-45dd-bb7d-7c19d76878be)
-
+</div>
