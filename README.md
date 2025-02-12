@@ -184,6 +184,11 @@ Though you can take any of the courses at any time, it is suggested that you tak
 
 </br>
 </br>
+
+[![Screenshot (123)](https://github.com/user-attachments/assets/15e6e4dc-c19c-4718-acce-22b4d0f9702a)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate-2024/140164)
+
+</br>
+</br>
   
  [![GOOGLE badge](https://github.com/user-attachments/assets/4582ce5a-7fad-4aef-bf41-5b2df8f44c6a)](https://www.credly.com/badges/ebde455d-6170-44bf-bfaf-bf9a9544213c)
 </br>
