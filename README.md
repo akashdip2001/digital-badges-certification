@@ -185,7 +185,7 @@ Though you can take any of the courses at any time, it is suggested that you tak
 </br>
 </br>
 
-[![Screenshot (123)](https://github.com/user-attachments/assets/15e6e4dc-c19c-4718-acce-22b4d0f9702a)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate-2024/140164)
+[![Oracle Cloud Infrastructure 2024 AI Foundations Associate (1Z0-1122-24)](https://github.com/user-attachments/assets/15e6e4dc-c19c-4718-acce-22b4d0f9702a)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate-2024/140164)
 
 </br>
 </br>
