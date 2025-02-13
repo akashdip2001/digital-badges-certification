@@ -20,6 +20,7 @@
 <a href="http://verify.skilljar.com/c/zbwf7vxha9yj"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/Introduction%20to%20FOCUS.png" width="100px" height="100px" /></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/finops-certified-engineer.png" width="100px" height="100px" /></a>
 <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/SF-Certified_AI-Associate_High-Res.png" width="110px" height="110px"/></a>
+<a href="https://www.linkedin.com/posts/akashdip2001_ai-foundations-associate-activity-7295821440686141440-jBoM"><img src="https://github.com/user-attachments/assets/bc2275fe-17e9-48af-b25a-e2a9aa13d35c" width="110px" height="110px" /></a>
 </br>
   </br>
    [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
@@ -185,8 +186,14 @@ Though you can take any of the courses at any time, it is suggested that you tak
 </br>
 </br>
 
-[![Oracle Cloud Infrastructure 2024 AI Foundations Associate (1Z0-1122-24)](https://github.com/user-attachments/assets/15e6e4dc-c19c-4718-acce-22b4d0f9702a)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate-2024/140164)
-
+[![Oracle Cloud Infrastructure 2024 AI Foundations Associate (1Z0-1122-24)](https://github.com/user-attachments/assets/7a50ac6a-5f94-49e6-9dd2-df588a360042)](https://www.linkedin.com/posts/akashdip2001_ai-foundations-associate-activity-7295821440686141440-jBoM)
+</br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  
+| [OCR AI Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate-2024/140164) | [Oracle Cloud Infrastructure 2024 Foundations Associate](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2024/139374) |
+| --- | --- |
+<div>
+  
 </br>
 </br>
   
