@@ -174,6 +174,9 @@ Though you can take any of the courses at any time, it is suggested that you tak
 6. Getting Started with Security
 7. Getting Started with Serverless
 
+[![Screenshot (460)](https://github.com/user-attachments/assets/00d522eb-c264-47da-a939-1999dc31ef76)](https://explore.skillbuilder.aws/learn/courses/11458/aws-cloud-quest-cloud-practitioner)
+
+
 </br>
 </br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
