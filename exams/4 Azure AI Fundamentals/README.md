@@ -1,3 +1,4 @@
+[<img align="right" alt="Microsoft Certified Azure AI Fundamentals logo" width="300" src="Microsoft Certified Azure AI Fundamentals.png">](https://learn.microsoft.com/en-us/users/akashdip2001/credentials/3a9d77112c32f726) 
 
 ---
 
