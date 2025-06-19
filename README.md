@@ -21,6 +21,7 @@
 <a href="https://www.linkedin.com/posts/akashdip2001_finops-cloudoptimization-devops-activity-7278651550309199872-Ad3P"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/finops-certified-engineer.png" width="100px" height="100px" /></a>
 <a href="https://www.salesforce.com/trailblazer/akashdipmahapatra"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/SF-Certified_AI-Associate_High-Res.png" width="110px" height="110px"/></a>
 <a href="https://www.linkedin.com/posts/akashdip2001_ai-foundations-associate-activity-7295821440686141440-jBoM"><img src="https://github.com/user-attachments/assets/bc2275fe-17e9-48af-b25a-e2a9aa13d35c" width="110px" height="110px" /></a>
+<a href="https://learn.microsoft.com/en-us/users/akashdip2001/credentials/3a9d77112c32f726"><img src="https://github.com/akashdip2001/akashdip2001/raw/main/img/Badge/Microsoft%20Certified%20Azure%20AI%20Fundamentals.png" width="115px" height="115px" /></a>
 </br>
   </br>
    [Verify all Badges : ](https://www.credly.com/users/akashdip2001)
