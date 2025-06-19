@@ -2,7 +2,7 @@
 
 ---
 
-### ✅ Azure AI Fundamentals Practice Questions
+### ✅ Azure AI Fundamentals Practice [Questions](#) & [answers](https://copilot.microsoft.com/shares/CmBJh58Vhk3P4a6P41PRR)
 
 **Question 1**
 
